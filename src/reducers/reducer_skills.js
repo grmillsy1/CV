@@ -55,12 +55,12 @@ Being an unusual blend of logical and creative, I love working on every aspect o
 Since learning to code at Makers Academy, Europe's leading Web Developer bootcamp, I have been exploring the world of both front-end and back-end programming in a number of languages, descrovering its endless learning curves and unlimited potential.`;
 
 //skills
-const CURIOUS = 'Curious'
-const CURIOUS_CONTEXT = '"I am neither clever nor especially gifted, I am only very, very Curious" - Albert Einstein. My background in biomedicine has fine-tuned my curious gene, which has also been at the forefront in my drive to learn new things and expand my mind. Curiosity has allowed me to stay focused, leading me down the rabbit hole of new languages, clean code, and agile approaches.'
+const CURIOUS = 'Inquisitive'
+const CURIOUS_CONTEXT = '"I am neither clever nor especially gifted, I am only very, very Curious" - Albert Einstein. My background in biomedicine has given me a passion for descovery: It has taught me to find patterns, and then challenge them. Curiosity and my drive to find out new things has also allowed me to stay focused, leading me down the rabbit hole of new languages, clean code, and agile approaches.'
 const CREATIVE = 'Creative'
-const CREATIVE_CONTEXT = 'Creativity is the pod to Technologies pea. Without creativity, tech would be stuck in the stone ages.My own personal creative flair allows me to think outside the box and use my scientific, logical brain in a way that can be quite unique.'
+const CREATIVE_CONTEXT = 'Creativity is the pod to Technologies pea. Without creativity, technology would be stuck in the stone ages. My creative flair allows me to think outside the box and to take advantage of my scientific and logical side, in a different way.'
 const GREAT_PEAR = 'Great pear'
-const PEAR_CONTEXT = 'I am a huge believer in team-work and the importance of getting on well as a community, whether that means being there for your pair on a bad day of JavaScript, keeping upbeat when team moral is low, or standing up to sing a christmas song in-front of your whole company.'
+const PEAR_CONTEXT = 'I am a huge believer in team-work and the importance of getting on well as a community, whether that means being there for your pair on a bad day of JavaScript or keeping upbeat when team moral is low.'
 
 //projects
 const GRACE = 'GracePrince'

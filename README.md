@@ -16,23 +16,21 @@ Having completed [Makers Academy](http://makersacademy.com), Europe's leading We
 
 **Curious :cat:**  
 *"I am neither clever nor especially gifted, I am only very, very Curious"* - Albert Einstein  
-My background in biomedicine has fine-tuned my curious gene, which has also been at the forefront in my drive to learn new things and expand my mind.  
-Curiosity has allowed me to stay focused, leading me down the rabbit hole of new languages, clean code, and agile approaches.
+My background in biomedicine has given me a passion for discovery: It has taught me to find patterns, and then challenge them. Curiosity and my drive to find out new things has also allowed me to stay focused, leading me down the rabbit hole of new languages, clean code, and agile approaches.
 
 **Creative :bulb:**  
-Creativity is the pod to Technologies pea. Without creativity, tech would be stuck in the stone ages.
-My own personal creative flair allows me to think outside the box and use my scientific, logical brain in a way that can be quite unique.
+Creativity is the pod to Technologies pea. Without creativity, technology would be stuck in the stone ages. My creative flair allows me to think outside the box and to take advantage of my scientific and logical side, in a different way.
 
 **Great Pear :pear:**  
-I am a huge believer in team-work and the importance of getting on well as a community, whether that means being there for your pair on a bad day of JavaScript, keeping upbeat when team moral is low, or standing up to sing a christmas song in-front of your whole company.
+I am a huge believer in team-work and the importance of getting on well as a community, whether that means being there for your pair on a bad day of JavaScript or keeping upbeat when team moral is low.
 
 
 ## PROJECTS
 Project | Description | Technologies | Testing | Duration
 --- | --- | --- | --- | ---
+[GracePrince](https://www.graceprince.com/index)| Grace Prince, a fresh young carpenter from London came to me with a unique challenge; she wanted a website to reflect her quirky side, whilst still showing her collection in a professional way. Together we worked towards an individual solution involving GSAP animations, allowing me to further explore jquery and javascript, whilst fine-tuning my css and html skills. [Take a look here](https://www.graceprince.com/index). | TweenMax, ScrollMagic, JavaScript, Ruby, HTML&CSS | RSpec | 2 Months
 [Flare](https://github.com/appflare/flare) | Flare, the love child of Pokemon go and Snapchat was born from a hate of the social seclusion around today, and aims to bring users back together again. Our small team of junior developers learnt swift from scratch, implemented agile development and TDD to complete our working MVP in just 8 days. [Check it out on the app store here!](https://itunes.apple.com/us/app/flare-share-discover-spontaneous/id1166173727?mt=8) | Swift, Xcode, Firebase | Swift, Xcode | 8 Days
 [Bloom](https://github.com/thehappinessproject/happiness_project) (Aka. The Happiness Project)| Participating in a 3 day hackathon, we were given a brief to create a platform for junior developers to receive tailored resources whilst tracking their progress. [Take a look here](http://bloomtracker.herokuapp.com). | JavaScript, Ruby on Rails, HTML&CSS | RSpec, Capybara | 3 Days
-[My Blog]() | After graduating from Makers Academy, I decided to expand my knowledge base and have a go at React. JavaScript was is my weakest language so I used the opportunity to build on this by creating a blog site. Marvel at the CSS I haven't done and the content that doesn't exist (yet!) | React, Redux, Webpack, Babel, CSS | Chai, Mocha | 4 Days
 
 ## EDUCATION
 
