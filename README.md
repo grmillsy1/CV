@@ -5,12 +5,11 @@
 Why did the developer quit his job?  
 *Because he didn't get arrays*  
 
-Hello, I am a full-stack junior developer with a passion for front end, ready to disrupt the tech world and change the face of development.
+Hello, I am a full-stack junior developer with a passion for user experience and beautiful design.
 
-A strong background in Biomedical science and neurology has lead me through a rocky spell at a med comms company, across the Atlantic, into a start-up and finally into the world of Tech.  
+Being an unusual blend of logical and creative, I love working on every aspect of a project; from conceptualization, prototyping and design, right through to testing, development and launch.
 
-Having completed [Makers Academy](http://makersacademy.com), Europe's leading Web Developer bootcamp, I have been exploring the world of programming, its endless learning curves and its unlimited potential.
-
+Since learning to code at [Makers Academy](http://makersacademy.com), Europe's leading Web Developer bootcamp, I have been exploring the world of both front-end and back-end programming in a number of languages, discovering its endless learning curves and unlimited potential.
 
 ## SKILLS
 
