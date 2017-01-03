@@ -43,7 +43,11 @@ export default function () {
       subTitle2Context: ROCK_INFO
     },
     {title: 'Interests',
-    subTitle1Context: INTERESTS},
+    subTitle1Context: INTERESTS,
+      bullet1: INTEREST_BULLET1,
+      bullet2: INTEREST_BULLET2,
+      bullet3: INTEREST_BULLET3,
+      bullet4: INTEREST_BULLET4},
   ]
 }
 
@@ -97,4 +101,8 @@ const ROCK_DATES = '2014-2015'
 const ROCK_INFO = 'Rock is a small medical communications company based in Richmond. In my role as account coordinator I had to be organised, professional and calm. I worked closely with the account manager on our two main accounts, and also brought new buisness in for the company.'
 
 //interests
-const INTERESTS = 'When I am not coding I can be found writing (I am currently finishing off a novel), sailing (I recently crossed the atlantic, and sank!), or diving (Unfortunatly not the olypic kind).'
+const INTERESTS = 'When I am not coding I can be found: '
+const INTEREST_BULLET1 = '* writing (I am currently finishing off a novel),'
+const INTEREST_BULLET2 = '* sailing (I recently crossed the atlantic, and sank!),'
+const INTEREST_BULLET3 = '* diving (Unfortunatly not the olypic kind),'
+const INTEREST_BULLET4 = '* at tech meetups (or any science meetup in general).'

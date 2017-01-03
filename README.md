@@ -15,7 +15,7 @@ Since learning to code at [Makers Academy](http://makersacademy.com), Europe's l
 
 **Curious :cat:**  
 *"I am neither clever nor especially gifted, I am only very, very Curious"* - Albert Einstein  
-My background in biomedicine has given me a passion for discovery: It has taught me to find patterns, and then challenge them. Curiosity and my drive to find out new things has also allowed me to stay focused, leading me down the rabbit hole of new languages, clean code, and agile approaches.
+My background in biomedicine has given me a passion for discovery: It has taught me to find patterns, and then challenge them, an attribute that lends itself well to coding. Curiosity and my drive to find out new things has also allowed me to stay focused, leading me down the rabbit hole of new languages, clean code, and agile approaches.
 
 **Creative :bulb:**  
 Creativity is the pod to Technologies pea. Without creativity, technology would be stuck in the stone ages. My creative flair allows me to think outside the box and to take advantage of my scientific and logical side, in a different way.
