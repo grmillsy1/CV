@@ -26,6 +26,9 @@ Creativity is the pod to technologies pea, allowing the world of tech to develop
 I am a huge believer in team-work and the importance of getting on well as a community, whether that means being there for your pair on a bad day of JavaScript or keeping upbeat when team moral is low. I enjoy pair programming, supporting and learning from each other to keep improving as a developer each day.
 
 
+
+
+
 ## PROJECTS
 Project | Description | Technologies | Testing | Duration
 --- | --- | --- | --- | ---
