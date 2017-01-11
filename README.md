@@ -1,6 +1,6 @@
 ## Georgia Mills
 
-[PROJECTS](#projects) | [SKILLS](#skills) |  [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests)
+ [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests)
 
 Why did the developer quit his job?  
 *Because he didn't get arrays*  
@@ -17,7 +17,7 @@ Since learning to code at [Makers Academy](http://makersacademy.com), Europe's l
 ## PROJECTS
 Project | Description | Technologies | Testing | Duration
 --- | --- | --- | --- | ---
-[GracePrince](https://www.graceprince.com/index)| Grace Prince, a fresh young carpenter from London came to me with a unique challenge; she wanted a website to reflect her quirky side, whilst still showing her collection in a professional way. Together we worked towards an individual solution involving GSAP animations, allowing me to further explore jQuery and javascript, whilst fine-tuning my css and html skills. [Take a look here](https://www.graceprince.com/index). | TweenMax, ScrollMagic, JavaScript, Ruby, HTML&CSS | RSpec | 2 Months
+[GracePrince](https://www.graceprince.com/index)| Grace Prince, a fresh young carpenter from London came to me with a unique challenge; she wanted a website to reflect her quirky side, whilst still showing her collection in a professional way. Together we worked towards an individual solution involving GSAP animations, allowing me to further explore jQuery and JavaScript, whilst fine-tuning my CSS and HTML skills. [Take a look here](https://www.graceprince.com/index). | TweenMax, ScrollMagic, JavaScript, Ruby, HTML&CSS | RSpec | 2 Months
 [Flare](https://github.com/appflare/flare) | Flare, the love child of Pokemon go and Snapchat was born from a hate of the social seclusion around today, and aims to bring users back together again. Our small team of junior developers learnt swift from scratch, implemented agile development and test driven development to complete our working MVP in just 8 days. [Check it out on the app store here!](https://itunes.apple.com/us/app/flare-share-discover-spontaneous/id1166173727?mt=8) | Swift, Xcode, Firebase | Swift, Xcode | 8 Days
 [Bloom](https://github.com/thehappinessproject/happiness_project) (Aka. The Happiness Project)| Participating in a 3 day hackathon, we were given a brief to create a platform for junior developers to receive tailored resources whilst tracking their progress. [Take a look here](http://bloomtracker.herokuapp.com). | JavaScript, Ruby on Rails, HTML&CSS | RSpec, Capybara | 3 Days
 
@@ -33,7 +33,6 @@ Creativity is the pod to technologies pea, allowing the world of tech to develop
 **Great Pear :pear:**  
 I am a huge believer in team-work and the importance of getting on well as a community, whether that means being there for your pair on a bad day of JavaScript or keeping upbeat when team moral is low. I enjoy pair programming, supporting and learning from each other to keep improving as a developer each day.
 
-
 ## EDUCATION
 
 **Makers Academy**, July 2016 - October 2016
@@ -43,7 +42,7 @@ I am a huge believer in team-work and the importance of getting on well as a com
 - Object-oriented programming
 - Agile Methodologies
 - Test-Driven Development
-- Ruby, Rails, Javascript, Node.js
+- Ruby, Rails, JavaScript, Node.js
 - RSpec, Jasmine, Mocha
 
 **Newcastle University**, 2010 - 2013
@@ -55,14 +54,14 @@ I am a huge believer in team-work and the importance of getting on well as a com
 
 **Co-founder, Jojalondon**, 2015 - 2016   
 
-- Key skills: Time management, Working towards strict deadlines, Working from a brief.
+- Key skills: Time management, keeping to strict deadlines, working from a brief.
 - Experienced all roles required in a small startup.
 - From creative director on photo-shoots and designer for special editions, to accounts and customer facing roles.
 - Very hands on and involved with client from ideas discussion to production.
 
 **Account co-ordinator, Rock Unlimited**, 2014 - 2015
 
-- Key skills: Organization, Working in a team,
+- Key skills: Organization, team work, communication.
 - Supported each member of the team individually, and also kept the team organized as a whole.
 - Worked closely with account manager on two main oncology accounts, mainly organizing large conferences and meetings.
 - Assisted the editorial team with copywriting, proof-reading and content.
@@ -73,5 +72,5 @@ I am a huge believer in team-work and the importance of getting on well as a com
 When I am not coding I can be found:
 - writing (I am currently finishing off a novel),
 - sailing (I recently crossed the Atlantic taking part in the Arc, and sank!),
-- diving (Unfortunately not the olympic kind),
+- diving (Unfortunately not the Olympic kind),
 - at tech meet-ups (or any science meet-up in general).
