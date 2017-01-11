@@ -54,14 +54,14 @@ I am a huge believer in team-work and the importance of getting on well as a com
 
 **Co-founder, Jojalondon**, 2015 - 2016   
 
-- Key skills: Time management, keeping to strict deadlines, working from a brief.
+- Key skills: Time management, working from a brief and keeping to strict deadlines.
 - Experienced all roles required in a small startup.
 - From creative director on photo-shoots and designer for special editions, to accounts and customer facing roles.
 - Very hands on and involved with client from ideas discussion to production.
 
 **Account co-ordinator, Rock Unlimited**, 2014 - 2015
 
-- Key skills: Organization, team work, communication.
+- Key skills: Organization, team work and communication.
 - Supported each member of the team individually, and also kept the team organized as a whole.
 - Worked closely with account manager on two main oncology accounts, mainly organizing large conferences and meetings.
 - Assisted the editorial team with copywriting, proof-reading and content.
