@@ -5,7 +5,7 @@
 Why did the developer quit his job?  
 *Because he didn't get arrays*  
 
-Hello, I am a full-stack junior developer with a passion for user experience and beautiful design.
+Hello, I am a full-stack junior developer with a background in science and a passion for exciting new tech.
 
 Being an unusual blend of logical and creative, I love working on every aspect of a project; from conceptualization, prototyping and design, right through to testing, development and launch.
 
