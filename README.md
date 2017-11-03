@@ -74,10 +74,21 @@ Project | Description | Technologies | Testing | Duration
 - Assisted the editorial team with copywriting, proof-reading and content.
 - Brought in new business, creating an opportunity for the largest client account for the company.
 
-## INTERESTS
+## VOLUNTEERING 
 
-When I am not coding I can be found:
-- writing (I am currently finishing off a novel),
-- sailing (I recently crossed the Atlantic taking part in the Arc, and sank!),
-- diving (Unfortunately not the Olympic kind),
-- at tech meet-ups (or any science meet-up in general).
+**Mentor, Code4000**
+
+- A great initiative that is trying to break the cycle of crime by teaching a group of prisoners how to code.
+- Find out more information here: [https://www.code4000.org/en](https://www.code4000.org/en).
+
+
+**STEM ambassador**
+
+- Using my science and technology backgrounds to inspire children to take up STEM subjects. 
+- Visiting schools and giving talks or advice. 
+- Being a judge for events and science fairs.
+
+**Mentor, CoderJojo**
+
+- Mentoring with children and young adults to teach them how to code.
+- From simple mornings building their own websites to full on software development.
