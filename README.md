@@ -9,7 +9,7 @@ Hello, I am a 'Full-Stack' Junior Developer, Scrum Master and Neuroscience enthu
 
 Being an unusual blend of logical and creative, I love working on every aspect of a project; from conceptualization, prototyping and design, right through to testing, development and launch.
 
-Since learning to code at [Makers Academy](http://makersacademy.com), Europe's leading Web Developer bootcamp, I have been exploring the world of both front-end and back-end programming in a number of languages, discovering its endless learning curves and unlimited potential. I had a great time as a Junior Developer at my last job at [AND Digital](https://and.digital/), upskilling further in React/Redux and AngularJS. I also took on the Scrum Master role at our largest client, coaching members of the team in agile methodologies. 
+During my last job as an Associate Developer at [AND Digital](https://and.digital/), I gained experience in both front-end and back-end, mainly upskilling further in React/Redux, Node.js and AngularJS. I also took on the Scrum Master role at our largest client, coaching members of the team in agile methodologies.
 
 [Click here](http://www.georgiamills.io) to view my personal website (www.georgiamills.io)
 
@@ -82,14 +82,9 @@ Project | Description | Technologies | Testing | Duration
 - A great initiative that is trying to break the cycle of crime by teaching a group of prisoners how to code.
 - Find out more information here: [https://www.code4000.org/en](https://www.code4000.org/en).
 
-
 **STEM ambassador**
 
 - Using my science and technology backgrounds to inspire children to take up STEM subjects. 
+- Mentoring children to help them code their own websites and software.
 - Visiting schools and giving talks or advice. 
 - Being a judge for events and science fairs.
-
-**Mentor, CoderJojo**
-
-- Mentoring with children and young adults to teach them how to code.
-- From simple mornings building their own websites to full on software development.
