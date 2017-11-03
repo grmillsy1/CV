@@ -1,6 +1,6 @@
 ## Georgia Mills
 
- [SKILLS](#skills) | [PROJECTS](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests)
+ [SKILLS](#skills) | [PROJECTS](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [VOLUNTEERING](#volunteering)
 
 Why did the developer quit his job?  
 *Because he didn't get arrays*  
