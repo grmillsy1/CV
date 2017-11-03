@@ -5,7 +5,7 @@
 Why did the developer quit his job?  
 *Because he didn't get arrays*  
 
-Hello, I am a full-stack junior developer with a background in science and a passion for exciting new tech.
+Hello, I am a 'Full-Stack' Junior Developer, Scrum Master and Neuroscience enthusiast with a background in science and a passion for exciting new technology.
 
 Being an unusual blend of logical and creative, I love working on every aspect of a project; from conceptualization, prototyping and design, right through to testing, development and launch.
 
@@ -25,6 +25,8 @@ Creativity is the pod to technologies pea, allowing the world of tech to develop
 
 **Great Pear :pear:**  
 I am a huge believer in team-work and the importance of getting on well as a community, whether that means being there for your pair on a bad day of JavaScript or keeping upbeat when team moral is low. I enjoy pair programming, supporting and learning from each other to keep improving as a developer.
+
+
 
 ## PROJECTS
 Project | Description | Technologies | Testing | Duration
