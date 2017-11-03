@@ -1,6 +1,6 @@
 ## Georgia Mills
 
- [SKILLS](#skills) | [PROJECTS](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [VOLUNTEERING](#volunteering)
+ [PROJECTS](#projects) |  [EXPERIENCE](#experience) | [SKILLS](#skills) | [EDUCATION](#education) | [VOLUNTEERING](#volunteering)
 
 Why did the developer quit his job?  
 *Because he didn't get arrays*  
@@ -13,43 +13,11 @@ During my last job as an Associate Developer at [AND Digital](https://and.digita
 
 [Click here](http://www.georgiamills.io) to view my personal website (www.georgiamills.io)
 
-
-## SKILLS
-
-**Inquisitive :cat:**  
-*"I am neither clever nor especially gifted, I am only very, very Curious"* - Albert Einstein  
-My background in biomedicine has given me a passion for discovery: It has taught me to find patterns, and then challenge them, an attribute that lends itself well to programming. Curiosity and my drive to find out new things has also kept me focused on exploring new languages and frameworks, following X-P values, keeping clean code, and agile methodologies.
-
-**Creative :bulb:**  
-Creativity is the pod to technologies pea, allowing the world of tech to develop and grow in exciting new ways. My creative flair allows me to think outside the box and to take advantage of my scientific and logical side in a different way. This is key in coding as finding solutions to difficult problems is all part of the fun!
-
-**Great Pear :pear:**  
-I am a huge believer in team-work and the importance of getting on well as a community, whether that means being there for your pair on a bad day of JavaScript or keeping upbeat when team moral is low. I enjoy pair programming, supporting and learning from each other to keep improving as a developer.
-
-
-
 ## PROJECTS
 Project | Description | Technologies | Testing | Duration
 --- | --- | --- | --- | ---
 [GracePrince](https://www.graceprince.com/index)| Grace Prince, a fresh young carpenter from London came to me with a unique challenge; she wanted a website to reflect her quirky side, whilst still showing her collection in a professional way. Together we worked towards an individual solution involving GSAP animations, allowing me to further explore jQuery and JavaScript, whilst fine-tuning my CSS and HTML skills. [Take a look here](https://www.graceprince.com/index). | TweenMax, ScrollMagic, JavaScript, Ruby, HTML&CSS | RSpec | 2 Months
 [Flare](https://github.com/appflare/flare) | Flare, the love child of Pokemon go and Snapchat was born from a hate of the social seclusion around today, and aims to bring users back together again. Our small team of junior developers learnt swift from scratch, implemented agile development and test driven development to complete our working MVP in just 8 days. [Check it out on the app store here!](https://itunes.apple.com/us/app/flare-share-discover-spontaneous/id1166173727?mt=8) | Swift, Xcode, Firebase | Swift, Xcode | 8 Days
-
-## EDUCATION
-
-**Makers Academy**, July 2016 - October 2016
-
-*A 16-week software development bootcamp*
-
-- Object-oriented programming
-- Agile Methodologies
-- Test-Driven Development
-- Ruby, Rails, JavaScript, Node.js
-- RSpec, Jasmine, Mocha
-
-**Newcastle University**, 2010 - 2013
-
-- Biomedical Science.
-- Specialized in Neurology, specifically dementia and its differential diagnosis.
 
 ## EXPERIENCE
 
@@ -74,6 +42,37 @@ Project | Description | Technologies | Testing | Duration
 - Worked closely with account manager on two main oncology accounts, mainly organizing large conferences and meetings.
 - Assisted the editorial team with copywriting, proof-reading and content.
 - Brought in new business, creating an opportunity for the largest client account for the company.
+
+## SKILLS
+
+**Inquisitive :cat:**  
+*"I am neither clever nor especially gifted, I am only very, very Curious"* - Albert Einstein  
+My background in biomedicine has given me a passion for discovery: It has taught me to find patterns, and then challenge them, an attribute that lends itself well to programming. Curiosity and my drive to find out new things has also kept me focused on exploring new languages and frameworks, following X-P values, keeping clean code, and agile methodologies.
+
+**Creative :bulb:**  
+Creativity is the pod to technologies pea, allowing the world of tech to develop and grow in exciting new ways. My creative flair allows me to think outside the box and to take advantage of my scientific and logical side in a different way. This is key in coding as finding solutions to difficult problems is all part of the fun!
+
+**Great Pear :pear:**  
+I am a huge believer in team-work and the importance of getting on well as a community, whether that means being there for your pair on a bad day of JavaScript or keeping upbeat when team moral is low. I enjoy pair programming, supporting and learning from each other to keep improving as a developer.
+
+## EDUCATION
+
+**Makers Academy**, July 2016 - October 2016
+
+*A 16-week software development bootcamp*
+
+- Object-oriented programming
+- Agile Methodologies
+- Test-Driven Development
+- Ruby, Rails, JavaScript, Node.js
+- RSpec, Jasmine, Mocha
+
+**Newcastle University**, 2010 - 2013
+
+- Biomedical Science.
+- Specialized in Neurology, specifically dementia and its differential diagnosis.
+
+
 
 ## VOLUNTEERING 
 
