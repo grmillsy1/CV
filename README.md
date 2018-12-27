@@ -5,11 +5,11 @@
 Why did the developer quit his job?  
 *Because he didn't get arrays*  
 
-Hello, I am a 'Full-Stack' Junior Developer, Scrum Master and Neuroscience enthusiast with a background in science and a passion for exciting new technology.
+Hello, I am a 'Full-Stack' Developer, Scrum Master and Neuroscience enthusiast with a background in science and a passion for exciting new technology.
 
-Being an unusual blend of logical and creative, I love working on every aspect of a project; from conceptualization, prototyping and design, right through to testing, development and launch.
+During my last job as a consultant at [Deloitte Digital AU](https://www.deloittedigital.com.au/), I worked on a large complex government project building in React and Mobx. Before that I worked as an Associate Developer at [AND Digital](https://and.digital/), being my first consultant role I gained experience in both front-end and back-end, mainly upskilling further in React/Redux, Node.js and AngularJS. I also took on the Scrum Master role at our largest client, coaching members of the team in agile methodologies.
 
-During my last job as an Associate Developer at [AND Digital](https://and.digital/), I gained experience in both front-end and back-end, mainly upskilling further in React/Redux, Node.js and AngularJS. I also took on the Scrum Master role at our largest client, coaching members of the team in agile methodologies.
+I love working on every aspect of a project; from conceptualization, prototyping and design, right through to testing, development and launch; and am always on the hunt to pick up new skills and learn new development techniques. 
 
 [Click here](http://www.georgiamills.io) to view my personal website (www.georgiamills.io)
 
@@ -20,6 +20,13 @@ Project | Description | Technologies | Testing | Duration
 [Flare](https://github.com/appflare/flare) | Flare, the love child of Pokemon go and Snapchat was born from a hate of the social seclusion around today, and aims to bring users back together again. Our small team of junior developers learnt swift from scratch, implemented agile development and test driven development to complete our working MVP in just 8 days. [Check it out on the app store here!](https://itunes.apple.com/us/app/flare-share-discover-spontaneous/id1166173727?mt=8) | Swift, Xcode, Firebase | Swift, Xcode | 8 Days
 
 ## EXPERIENCE
+
+**Consultant Developer, Deloitte Digital**, 2018  
+
+- Key skills: Front-end, Javascript/React/Mobx.   
+- Working with a large and established code base to build new features and fix existing problems for the client. 
+- Involved in re-inventing onboarding process and represented the team at graduate hire days and women in tech events. 
+- Involved in developing an exciting innovation platform for fellow colleague to gather and implement creative ideas. 
 
 **Associate Developer, AND Digital**, 2017  
 
@@ -34,14 +41,6 @@ Project | Description | Technologies | Testing | Duration
 - Experienced all roles required in a small startup.
 - From creative director on photo-shoots and designer for special editions, to accounts and customer facing roles.
 - Very hands on and involved with client from ideas discussion to production.
-
-**Account co-ordinator, Rock Unlimited**, 2014 - 2015
-
-- Key skills: Organization, team work and communication.
-- Supported each member of the team individually, and also kept the team organized as a whole.
-- Worked closely with account manager on two main oncology accounts, mainly organizing large conferences and meetings.
-- Assisted the editorial team with copywriting, proof-reading and content.
-- Brought in new business, creating an opportunity for the largest client account for the company.
 
 ## SKILLS
 
